@@ -2,7 +2,7 @@
 Contributors: obtaininfotech
 Tags: multisite, copier, copy, content copier, posts copy, pages copy, post copier, pages copier, content copier, wordpress multisite content sync, wordpress multisite post sync
 Requires at least: 4.1
-Tested up to: 6.7
+Tested up to: 6.8
 Stable tag: 2.0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
